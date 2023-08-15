@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<zodiac>
+	<sign>
+		<name>Aries</name>
+		<dateRange>March 21 - April 19</dateRange>
+		<symbol>Ram</symbol>
+		<element>Fire</element>
+		<polarity>Masculine</polarity>
+		<modality>Cardinal</modality>
+		<planet>Mars</planet>
+		<image>aries.png</image>
+        <imageMain>ariesMain.png</imageMain>
+        <sunInfo>
+Aries loves to be number one, so it is no surprise that these audacious rams are the first sign of the zodiac. Bold and ambitious, Aries dives headfirst into even the most challenging situations (which is appropriate, since the body part associated with Aries is the head). Like their fellow fire signs, Leo and Sagittarius, Aries is a passionate, motivated, and confident leader who builds community with their cheerful disposition and relentless determination. Uncomplicated and direct in their approach, they often get frustrated by exhaustive details and unnecessary nuances. They like things quick and dirty, a temperament also reflected in their sexual proclivities.
+
+Aries is a cardinal sign that kicks off not only the spring season but also the entire zodiac wheel. Astrologers believe that each sign learns the lessons absorbed by its preceding signs, both joyful and painful. In the case of Aries, however, there is no inherited wisdom: Aries leads with blind optimism, barreling through life with an electric joie de vivre that perfectly complements their distinctive impulsivity.
+
+These fire signs think after they leap, which often results in lessons learned the hard way. Aries represents the singular spirit (while Aries opposite sign, Libra, symbolizes partnership). These rams adhere to an -every person for themselves- philosophy. While this self-determination can be inspiring, Aries needs to watch out for selfish tendencies.
+
+This sign is ruled by Mars, the dynamic red planet named after the Roman god of war. Accordingly, these courageous rams are always armed and ready for battle. Aries is known for an explosive temper, and although their outbursts don not last long, it is definitely best to avoid fiery rams until the steam has dissipated. But when these brazen rams are not flying off the handle, they are upbeat, positive, and playful creatures who enjoy living life to the fullest. You can always spot an Aries excelling on the sports field, speeding down the highway, or organizing a vibrant party game.
+        </sunInfo>
+        <moonInfo>
+The first sign of the zodiac, Aries is known for an impulsive and fiery disposition. Likewise, those born with an Aries moon are often identified by their signature hot-headedness. Aries moons know what they want (or, at the very least, their desires can feel like needs). They are emotionally satisfied by excitement, spontaneity, and victory, whatever that means to them. Having an Aries moon may feel like having a beautiful yet temperamental child living inside of you who always has to go first and get what they want. Their challenge is to merge this strength with the maturity of their other, often Earth sign placements.
+        </moonInfo>
+        <ascendingInfo>
+If you are an Aries rising, chances are you come off as brave, opinionated, and independent. You have a powerful and commanding presence and may even be seen as intimidating. You are the fierce warrior of the zodiac. Aries ruling planet is Mars, the god of war. Being the first sign, you lead the cavalry. As the first fire sign of the zodiac, you are intensely competitive and view the world as a series of competitions. Aries rising, you are a trailblazer who leaps before you look and asks for forgiveness, not permission. You also act on your instincts, which are usually spot-on.
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/aries-sign</webLink>
+	</sign>
+
+	<sign>
+		<name>Taurus</name>
+		<dateRange>April 20 - May 20</dateRange>
+		<symbol>Bull</symbol>
+		<element>Earth</element>
+		<polarity>Feminine</polarity>
+		<modality>Fixed</modality>
+		<planet>Venus</planet>
+		<image>taurus.png</image>
+        <imageMain>taurusMain.png</imageMain>
+        <sunInfo>
+Taurus is an earth sign represented by the bull. Like their celestial spirit animal, Taureans enjoy relaxing in serene, bucolic environments, surrounded by soft sounds, soothing aromas, and succulent flavors. Taurus is ruled by Venus, the enchanting planet that governs love, beauty, and money. Tauruss Venusian influence make this earth sign the most sensual of the zodiac: These cosmic oxen are enchanted by any physical manifestation of comfort and luxury. Pleasure is a necessity for epicurean Taureans and they feel most content when pampered. (Taurus governs the neck, so neck caresses are especially irresistible to these bulls.)
+
+It is true that in their perfect world, Taureans would spend all day bathing in a tub overflowing with essential oils. At the same time, these earth signs know the value of a dollar. Taureans are not afraid to roll up their sleeves and work hard to earn big rewards. They are ambitious, focused, and resilient and they feel most secure when steadily putting money into a savings account.
+
+Cosmic oxen are all about return on investment (the bull is also the symbol of Wall Street), and Taureans know how to play the long game in both professional and romantic pursuits. Security is paramount for Taureans and any threat to their stability will be sure to have a celestial bull seeing red.
+
+As a sign, Taurus is fixed, an astrological quality that reflects Tauruss steadfast, loyal nature. Fixed signs are excellent at maintaining systems and Taureans prioritize consistency and reliability in all areas of their lives. It must be noted, however, that Taurus does have a bit of a reputation: What a Taurus perceives as dedication is often regarded by others as stubbornness. Accordingly, these bulls may end up lingering in unhealthy situations - whether relationships, jobs, or homes - longer than necessary just to prove a point. Despite their occasional obstinance, however, Taureans are dependable partners, soothing their friends and lovers with their trustworthiness and devotion.
+        </sunInfo>
+        <moonInfo>
+Taurus is one of the most sensual signs of the zodiac. Those born with a Taurus moon are satiated by cozy environments, delicious meals, and expressions of luxury. The Taurus moon is a creature of habit and will always prefer stability over change. A Taurus moon can provide grounding, especially in contrast to an emotional water sign sun.
+        </moonInfo>
+        <ascendingInfo>
+If you are a Taurus rising, you likely give off fierce, dependable, and strong-willed vibes. But you also have a softer side. You enjoy the good things in life, including beautiful clothes, fine food, and massages. Taurus sometimes gets pigeonholed as materialistic, and while you do like to surround yourself with gorgeous finery, you are also hard-working enough that you have earned a bit of luxury. Your ruling planet is sensual Venus, the goddess of beauty, love, and abundance, so you can not help that you have refined taste. You are the first earth sign, and you represent earthiness in its purest form. This means you like being active and creative with your hands - for you, this could mean gardening, cooking, knitting, or even the challenge of finding an innovative new makeup look.
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/taurus-sign</webLink>
+	</sign>
+
+	<sign>
+		<name>Gemini</name>
+		<dateRange>May 21 - June 20</dateRange>
+		<symbol>Twins</symbol>
+		<element>Air</element>
+		<polarity>Masculine</polarity>
+		<modality>Mutable</modality>
+		<planet>Mercury</planet>
+		<image>gemini.png</image>
+        <imageMain>geminiMain.png</imageMain>
+        <sunInfo>
+Have you ever been so busy that you wished you could clone yourself just to get everything done? That is the Gemini experience in a nutshell. Appropriately symbolized by the celestial twins, this air sign was interested in so many pursuits that it had to double itself. Because of Geminis intrinsic duality, they are often falsely misrepresented as two-faced. In reality, however, Gemini rarely has a hidden agenda. Playful and intellectually curious, Gemini is constantly juggling a variety of passions, hobbies, careers, and friend groups. They are the social butterflies of the zodiac: These quick-witted twins can talk to anyone about anything. Find them buzzing between happy hours, dinner parties, and dance floors.
+
+Gemini season begins on May 21, a day that ushers in the heat and electricity of summer. Gemini is accordingly excellent at guiding change and transformation. These curious twins are terrific pioneers, using their energy to spearhead innovative creative projects. A fearless thinker, Gemini is always down to try something new. But after they have shared their progressive vision with the world, it is best to let these twins get back to ideating: These hyperactive air signs have short attention spans and are most satisfied when they can move fluidly from one idea to the next.
+
+Both Gemini and Virgo are governed by Mercury, the messenger planet of communication. Despite sharing a planetary ruler, however, these two signs are opposite in their approaches: Gemini expresses emotions externally, whereas Virgo processes internally. Gemini is all about output, so these twins love to chat and often speak with their hands (which happens to be the body part associated with Gemini). Communication is paramount for them, and they require fluent streams of transmission.
+
+They love texting and tweeting almost as much as they love talking IRL. In fact, the act of expression is often even more important to loquacious Gemini than what is actually being said - and they must remember to be thoughtful with their words. Another incredible Gemini quality, however, is that these natural chameleons can quickly recover from even the most shameful foot-in-mouth moments. Gemini moves too fast to care about embarrassing missteps: They simply move on.
+        </sunInfo>
+        <moonInfo>
+Gemini is known for mercuriality (after all, this air sign is governed by Mercury). A Gemini grounds themselves with facts and information, so communication is paramount for those born under a Gemini moon. It is critical that Gemini moons have outlets for expression: They should celebrate their loquaciousness and socialize in a variety of communities. Gemini energy requires a lot of attention and upkeep, so those with Gemini moons must ensure someone is always fawning over them.
+        </moonInfo>
+        <ascendingInfo>
+If you are a Gemini rising, people likely perceive you as talkative, bright, and curious. Your highly creative mind can spit out ideas a mile a minute. However, you might get overwhelmed sometimes by the desire to do everything at once. This same principle can be applied to your love life. Geminis are infamous heartbreakers and can be very picky when settling down with someone. It is not because you are insensitive; it is because you are waiting for your perfect match (this sign is represented by the twins). Geminis ruling planet is Mercury, the messenger of the gods. As a result, you come off as charming, well-spoken, and are likely an excellent public speaker.
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/gemini-sign</webLink>
+	</sign>
+
+	<sign>
+		<name>Cancer</name>
+		<dateRange>June 21 - July 22</dateRange>
+		<symbol>Crab</symbol>
+		<element>Water</element>
+		<polarity>Feminine</polarity>
+		<modality>Cardinal</modality>
+		<planet>Moon</planet>
+		<image>cancer.png</image>
+        <imageMain>cancerMain.png</imageMain>
+        <sunInfo>
+Cancer is a cardinal water sign. Represented by the crab, this oceanic crustacean seamlessly weaves between the sea and shore, representing Cancers ability to exist in both emotional and material realms. Cancers are highly intuitive and their psychic abilities manifest in tangible spaces: For instance, Cancers can effortlessly pick up the energies in a room. These crabs are highly sensitive to their environments, as well as extremely self-protective. Much like their celestial spirit animal, Cancers are shielded by hard, external shells. At first, these crabs may be perceived as cold or distant. With time, though, Cancers reveal their gentle nature, genuine compassion, and mystical capabilities. Just don not be surprised if it takes a while to get to know them.
+
+Cancer is ruled by the moon, the celestial body that represents comfort, self-care, and maternal energies. Accordingly, Cancers tend to be domestically oriented. They love to create cozy, safe spaces that serve as their personal sanctuaries, then spend lots of time in them. Cancers care deeply about their families and are quick to adopt caregiver roles. But these crabs must be careful: When Cancers invest in someone emotionally, they risk blurring the line between attentive nurturing and controlling behavior.
+
+Cancers attract friends and lovers through their loyalty, commitment, and emotional depth. These crustaceans make excellent hosts and enjoy entertaining with comfort food and free-flowing libations. (Cancer rules the stomach, so there is nothing these crabs love more than a home-cooked meal.) If you are not a fan of Cancers attachment to the home, that may be a bit of a problem. Though these celestial crabs avoid direct conflict by walking at an angle, they can inflict a harsh pinch with their distinctive brand of passive-aggressiveness. It may be difficult to convince a Cancer to talk openly about what is bothering them, but if you can do it without making them feel threatened, you will build long-lasting trust.
+        </sunInfo>
+        <moonInfo>
+The moon governs Cancer, so as a moon sign, Cancer is in its planetary domicile. Those born under this lunation are extremely impacted by their surroundings and can instantly read the energy of a room. As the moon is constantly changing, their emotions are always in flux. It is important for the Cancer moon to always feel safe and supported, so those with Cancer moons would be wise to keep a trusted inner circle of family and friends.
+        </moonInfo>
+        <ascendingInfo>
+If you are a Cancer rising, then traditional and nurturing are words often used to describe you. You like your routine - after all, you've taken time and care to establish yourself and make things exactly the way you want them to be. Your home life is very important to you, so you tend to care deeply about your personal space and the people allowed inside. You might also be the person people come to with problems because you know how to hold space for people. But do not get it twisted, Cancers are more than the sensitive beings people often make them out to be. They come with pinchers and a hard exterior, after all. But because the intuitive moon rules the sign, you present yourself as kind and poetic as long as your claws are not out.
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/cancer-sign</webLink>
+	</sign>
+
+	<sign>
+		<name>Leo</name>
+		<dateRange>July 23 - August 22</dateRange>
+		<symbol>Lion</symbol>
+		<element>Fire</element>
+		<polarity>Masculine</polarity>
+		<modality>Fixed</modality>
+		<planet>Sun</planet>
+		<image>leo.png</image>
+        <imageMain>leoMain.png</imageMain>
+        <sunInfo>
+Roll out the red carpet, because Leo has arrived. Leo is represented by the lion, and these spirited fire signs are the kings and queens of the celestial jungle. They are delighted to embrace their royal status: Vivacious, theatrical, and passionate, Leos love to bask in the spotlight and celebrate themselves. These lions are natural leaders and they enjoy cultivating friendships and romances that are artistically and creatively inspired. Playful Leos have no problem leaning into drama-fueled romances that are perfectly suited for the tabloids. (In fact, they may even prefer them.) After all, every Leo perceives him or herself as a celebrity. These astrological divas never get tired of lavish dinners, exclusive parties, or decadent designer wear.
+
+Leo is ruled by the sun, the dazzling celestial body that governs life and vitality. The sun never goes retrograde, and likewise, Leos are renowned for their stability, loyalty, and consistency. They are dedicated friends and lovers who put their hearts into every relationship. (Fittingly, the Leo sign governs the heart.) Lions love to watch their mates succeed - until they feel threatened. They can become impaired by their ego, pride, and jealousy when they start to fear their star power will be eclipsed. It is important for celestial lions to remember that their light is never obscured by others, and the bright shine of others success does nothing to their own. Ultimately, Leos own hubris is the greatest threat to their happiness.
+
+This fixed sign is known for its ambition and determination, but above all, Leos are celebrated for their remarkable bravery. In tarot, Leo is represented by the strength card, which depicts the divine expression of physical, mental, and emotional fortitude. Fearless optimists who refuse to accept failure, Leos will find their deep wells of courage grow as they mature.
+        </sunInfo>
+        <moonInfo>
+Leo is ruled by the sun, but in a moon placement, this fire sign needs to work twice as hard to make sure it is visible. The Leo moon is a creative spirit, fueled by warmth, generosity, and (naturally) an audience. The Leo moon hates to feel eclipsed, so those born under this lunation should find stages on which they can share their innate gifts. If a Leo moon is neglected, those may act out like brats until they receive the attention that they crave. Those with Leo moons tend to end up famous for something or other.
+        </moonInfo>
+        <ascendingInfo>
+If you are a Leo rising, people probably think of you as confident, vibrant, and fun. You have a flair for the dramatic, and people immediately notice when you walk into the room. Whether you work in the arts or just have an epic Instagram feed, you are also highly creative. Seeing you live your best life inspires others to do the same. Leo season is the summer, and you carry that carefree, sunny spirit with you. This sign is also known as the child of the zodiac. Like children, you live in the moment but can also be a little demanding. Not everyone can keep up with your fiery energy, but don't let the haters get you down. Leos ruling planet is the powerful sun, so you were made for the spotlight (and likely have great hair and a fantastic sense of style).
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/leo-sign</webLink>
+	</sign>
+
+	<sign>
+		<name>Virgo</name>
+		<dateRange>August 23 - September 22</dateRange>
+		<symbol>Virgin</symbol>
+		<element>Earth</element>
+		<polarity>Feminine</polarity>
+		<modality>Mutable</modality>
+		<planet>Mercury</planet>
+		<image>virgo.png</image>
+        <imageMain>virgoMain.png</imageMain>
+        <sunInfo>
+Virgo is an earth sign historically represented by the goddess of wheat and agriculture, an association that speaks to Virgos deep-rooted presence in the material world. Virgos are logical, practical, and systematic in their approach to life. This earth sign is a perfectionist at heart and is not afraid to improve skills through diligent and consistent practice. Virgo rules the digestive system, which makes these earth signs especially attuned to the ingredients that make up a whole - in food and in everything else. They are hyper-aware of every detail.
+
+Virgo is governed by Mercury, the messenger planet of communication. Though Mercury also rules Gemini, these two signs are radically different: Gemini is about output and expression, whereas Virgo is about input and processing. A Virgo deals with information like a computer, transforming even the most jumbled set of information into organized, clear concepts. Though Virgos long to be meticulous in all pursuits, they must remember that constantly chasing after the ideal can be destructive when applied to self or others. Beauty exists within our imperfections and it is important for Virgos to learn that flaws are not defects.
+
+Above all else, Virgos want to help. They are kind, gentle, and supportive friends and lovers who use their incredible intellect and resourcefulness to problem-solve. Virgos opposite sign, Pisces, offers guidance through spirituality, but Virgos want to assist on a practical level. These earth signs are always striving to provide workable solutions and improve broken systems. Methodical, committed, and hardworking, they make excellent teachers, healers, editors, and musicians.
+        </sunInfo>
+        <moonInfo>
+Virgo is the most analytical sign of the zodiac. Accordingly, those with a Virgo moon placement are satisfied by logic, organization, and structure. Virgo moons excel at creating comprehensive, dynamic systems for themselves and, perhaps even more importantly, for others. They love to be helpful and are always fulfilled when contributing in practical ways. Virgo moons require a lot of soothing, as their mind never stops worrying. Those with Virgo moons should implement a mindfulness practice, try meditating, and work with a therapist to keep anxious thoughts at bay.
+        </moonInfo>
+        <ascendingInfo>
+If you are a Virgo rising, people who meet you may describe you as organized, put together, and reliable. You may give the air of a perfectionist, which can be a bit intimidating at times. This signs ruling planet is messenger Mercury, and as a result, Virgo risings are communicative and curious. Friends and lovers likely come to you for advice. Virgo is the healer of the zodiac and cares deeply about those around them. If you are a Virgo rising, make sure to carve out time to care for yourself as well as others.
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/virgo-sign</webLink>
+	</sign>
+
+	<sign>
+		<name>Libra</name>
+		<dateRange>September 23 - October 22</dateRange>
+		<symbol>Scales</symbol>
+		<element>Air</element>
+		<polarity>Masculine</polarity>
+		<modality>Cardinal</modality>
+		<planet>Venus</planet>
+		<image>libra.png</image>
+        <imageMain>libraMain.png</imageMain>
+        <sunInfo>
+Libra is an air sign represented by the scales (interestingly, the only inanimate object of the zodiac), an association that reflects Libras fixation on balance and harmony. Libra is obsessed with symmetry and strives to create equilibrium in all areas of life. These air signs are the aesthetes of the zodiac: Ruled by Venus, the planet that governs love, beauty, and money, Libras adore high art, intellectualism, and connoisseurship. Suave Libras need to surround themselves with stunning objects and create environments that reflect their exquisite tastes. Accordingly, these air signs make excellent designers, decorators, art critics, and stylists.
+
+While Libras opposite sign, Aries, represents me, Libra symbolizes we. Relationships are paramount for Libras, who find balance in companionship. They love harmonious partnerships with fashionable mates, especially those who make attractive arm candy. (Libra governs the skin, and these air signs are highly motivated by physical appearance. There is no better way for a Libra to relax than with a luxurious face mask.)
+
+Libras, when they are regularly coupled, must be careful about seeking attention outside the agreed-upon boundaries of their relationship. Since they try to keep everyone happy and engaged, they may find themselves tempted to push the limits of their agreements with their partners. People-pleasing Libras must remember that the happiness of their loved ones and the health of their relationships is more important than maintaining the attention of distant admirers.
+
+Libra is a cardinal sign, which means Libras are accordingly great at launching new initiatives. However, because Libras consider multiple perspectives in all pursuits, these air signs struggle with indecision. Instead of constantly seeking outside perspectives, Libras would do well to develop (and trust) their own intuition. Their characteristic ambivalence aside, Libras can navigate virtually any social situation, effortlessly resolving conflicts by simply turning on the charm.
+        </sunInfo>
+        <moonInfo>
+Libra is symbolized by the scales, a visual representation of balance, harmony, and union. Those born under this lunation are natural mediators, and Libra moons are happiest when keeping the peace. They also thrive in partnership, so it is common to find Libra moons moving seamlessly between relationships. In fact, sometimes Libra moons may start a new romance while in the middle of another one! Libra moons will benefit from finding validation through themselves rather than others.
+        </moonInfo>
+        <ascendingInfo>
+If you are a Libra rising, those who come into contact with you likely think of you as attractive, romantic, and sweet (although you may have a sharp tongue at times, even if that just means you're witty). You may have heard that Libras are indecisive, and while this may be true, it comes with good intentions because you generally want everyone to be happy. The scales represent this air sign, and as a result, you may always try to keep the peace and ensure justice is served. It is also the sign of partnerships, and with lover Venus as your ruling planet, Libra risings tend to be flirty and ethereal.
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/libra-sign</webLink>
+	</sign>
+
+	<sign>
+		<name>Scorpio</name>
+		<dateRange>October 23 - November 21</dateRange>
+		<symbol>Scorpion</symbol>
+		<element>Water</element>
+		<polarity>Feminine</polarity>
+		<modality>Fixed</modality>
+		<planet>Pluto</planet>
+		<image>scorpio.png</image>
+        <imageMain>scorpioMain.png</imageMain>
+        <sunInfo>
+Scorpio is one of the most misunderstood signs of the zodiac. Because of its incredible passion and power, Scorpio is often mistaken for a fire sign. In fact, Scorpio is a water sign that derives its strength from the psychic, emotional realm. Like fellow water signs, Cancer and Pisces, Scorpio is extremely clairvoyant and intuitive.
+
+What makes this water sign unique is its distinctive venomous sting. Like their celestial spirit animal, the scorpion, Scorpios lie in wait and strike when least expected. Life is a game of chess for these calculating water signs, who are constantly plotting several steps ahead in order to orchestrate an eventual checkmate. This does not mean their intentions are necessarily nefarious. Scorpios simply know what they want and aren't afraid to work hard and play the long game to get it.
+
+They never show their cards and their enigmatic nature is what makes them so seductive and beguiling. Scorpio is the sign most closely associated with sex: The part of the body that Scorpio governs is the genital area. Sex isn't solely about pleasure for these sensual scorpions. They also crave the physical closeness, spiritual illumination, and emotional intimacy sex can provide.
+
+Scorpio is ruled by Pluto, the planet that governs both destruction and transformation. On a good day, Scorpion energy is ambitious and enticing. On a bad day, however, the shadowy side of Scorpio is fueled by a relentless desire for control. Power-hungry Scorpios must remember that if controlled by their egos, they are at risk of poisoning themselves. This sign is at its best when that intrinsic intensity is applied to deep, soulful connections with friends and lovers. When they build trust with others, Scorpios demonstrate unparalleled empathy, depth, and commitment that brighten even the darkest parts of Scorpios magical psyche.
+        </sunInfo>
+        <moonInfo>
+Scorpio is a water sign, known for its high-octane emotional intensity. Scorpio moons crave deep connections and transformative experiences, and they also take privacy seriously. Those with this placement should honor it by creating (and maintaining) boundaries. Because they are prone to volatile emotions, it is important for Scorpio moons to prioritize mental health. Oh yes, they are also quite horny and can be duplicitous at times, but once they choose someone, they are loyal for life.
+        </moonInfo>
+        <ascendingInfo>
+If you are a Scorpio rising, you may come off as mysterious, quiet, and alluring. It is not always a sexually charged charm, although it can be. Scorpios have a reputation for being the most sexual sign of the zodiac, so your inherent sensuality may intimidate others when they first meet you. Most of the time, there is so much going on behind that cool, pristine face that people want to know more and can not stay away. Rising Scorpios are intense, and you have your reasons. You've likely had some experiences that have caused you to put up your guard, especially if you have other Scorpio influences in your chart. This sign is ruled by both the warrior Mars, and Pluto, the lord of the underworld, which explains some of the intensity.
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/scorpio-sign</webLink>
+	</sign>
+
+	<sign>
+		<name>Sagittarius</name>
+		<dateRange>November 22 - December 21</dateRange>
+		<symbol>Archer</symbol>
+		<element>Fire</element>
+		<polarity>Masculine</polarity>
+		<modality>Mutable</modality>
+		<planet>Jupiter</planet>
+		<image>sagittarius.png</image>
+        <imageMain>sagittariusMain.png</imageMain>
+        <sunInfo>
+The final fire sign of the zodiac, Sagittarius traits are unlike any other sign of the zodiac; they're totally unique to this brazen spirit. As a professional astrologer with almost 10 years of experience, I can honestly say that there is no zodiac sign like Sagittarius. What makes Sagittarius so unique is its dynamic blend of passion, curiosity, intensity, and adaptability. Represented by the archer (a half-man, half-horse centaur), Sagittarius is not afraid to use its bow and arrow to explore expansive terrain, seeking answers in places and spaces others would not dare venture. Whether they are white water rafting down a river in some undisclosed location or taking a pilgrimage to a sacred site to uncover secrets about an ancient civilization, Sagittarius quest for knowledge knows no bounds.
+
+Sagittarius is a mutable sign, meaning it is associated with adaptability and flexibility. This perfectly reflects the archers deep-rooted desire for change. Sagittarians are born to explore and it is critical that these archers have the freedom to roam. (Sagittarius rules the thighs, so these archers are always on the move.) Fueled by wanderlust, these archers can be found traversing all corners of the world on thrill-seeking expeditions, chasing after geographical, intellectual, and spiritual adventures. Sagittarians are on a perpetual quest for knowledge, which makes them incredible storytellers, entertainers, and creatives. It is not all fun and games, however: Sagittarius is notorious for its signature bluntness, and their brutal honesty can often lead to misunderstandings, communication breakdowns, and lots of hurt feelings. But the good news? Sagittarius does not take anything too seriously, so it is hard to stay mad at these wild optimists.
+
+Sagittarius ruling planet is Jupiter, the planet of abundance. You know the expression -go big or go home?- Yeah, that is basically Jupiters motto. Jupiter is all about excess - it expands anything it touches. So, naturally, this sign demands to have it all. The word enough does not exist within this signs vocabulary. When Sagittarius is intrigued by something - whether it is a Wikipedia blackhole or a newfound internet crush - they go all in. That is, until something else catches their eye. As a mutable sign, Sagittarius don not stay on any single fascination for too long; these archers have so many passions and interests, they are constantly bouncing from one idea to the next! What is more, since 2020, the solar and lunar eclipses have been activating the Gemini-Sagittarius axis, so there is been tons of movement and transformation for this fiery sign.
+        </sunInfo>
+        <moonInfo>
+Sagittarius is the last fire sign, represented by the archer. Sagittarius is known for brazen curiosity, and Sagittarius moons are fulfilled by philosophy, travel, and intellectual expansion. Those born under this placement are always on a quest, and it is important for them to have the freedom to explore and embrace the unknown. Those with Sagittarius moons must be careful of talking over people, dominating conversations, and acting smarter than everyone else around them. But, they are so much fun to be around, they can get away just about anything.
+        </moonInfo>
+        <ascendingInfo>
+If you are a Sagittarius rising, people may describe you as intelligent and a fabulous storyteller who is always the life of the party. You have a zest for life that is contagious and are known as the optimist of the zodiac. The glass is always half full for you. You are outspoken, opinionated, and say what others are not saying. You can often be quite blunt, and sometimes it backfires. But, because the lucky planet Jupiter rules Sagittarius, you always come out on top.
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/sagittarius-sign</webLink>
+	</sign>
+
+	<sign>
+		<name>Capricorn</name>
+		<dateRange>December 22 - Janurary 19</dateRange>
+		<symbol>Sea-Goat</symbol>
+		<element>Earth</element>
+		<polarity>Feminine</polarity>
+		<modality>Cardinal</modality>
+		<planet>Saturn</planet>
+		<image>capricorn.png</image>
+        <imageMain>capricornMain.png</imageMain>
+        <sunInfo>
+The last earth sign of the zodiac, Capricorns and their unique spirits are powerful, to say the least. Capricorns are extremely special. Perhaps it is their fearless ambition? Their limitless resilience? Their ability to keep pushing forward, even in the face of challenging adversity and painful strife? Or, maybe it is their secret wild side that is very rarely depicted in standard personality assessments, but that rumbles within the soul of every Capricorn: Not everyone gets to see Capricorn ordering rounds of tequila, dancing on the table, and staying out until the crack of dawn - but that rebellious, untamed spirit is a Capricorn asset. I mean, how else do you expect this zodiac sign to let loose and have fun?
+
+Indeed, inside every earnest Capricorn is a mischievous troublemaker (in tarot, Capricorn is symbolized by the -devil- card). Though this earth sign may seem a bit conservative and restrained at first, Capricorns closest friends and lovers know that these sea goats love to party.
+
+Interestingly, Capricorns are said to age backwards: they become increasingly youthful, optimistic, and playful as they mature. Indeed, inside every earnest Capricorn is a mischievous troublemaker Though this earth sign may seem a bit conservative and restrained at first, Capricorns closest friends and lovers know that these sea goats love to party.
+
+Capricorn is symbolized by the sea goat, a mythological creature with the body of a goat and tail of a fish. This imagery speaks to Capricorns bifurcated abilities: Capricorns are skilled at navigating both the material and emotional realms. They scale the steepest mountains - Capricorn rules the knees, making it easier for this sign to climb - while simultaneously building up their psychic fortitude. Capricorns are relentless: They are determined to overcome whatever stands in their way. They have big picture, long-term goals and they absolutely do not want to be bogged-down by annoying details or superfluous information. However, because of their unwavering focus, Capricorns can sometimes be perceived as cold, unemotional, or even cutthroat - but that is only because Capricorn has perspective. If it wont matter in five years, Capricorn simply cannot be bothered with it today.
+            
+Of course, this speaks quite literally to Capricorns planetary ruler: Saturn. The ringed-gas giant in our distant solar system, Saturn is the planet associated with tasks, rules, responsibilities, and - perhaps most importantly - time. Thanks to Saturn, Capricorn is so incredibly connected to the concept of time. Sure, this may translate to Capricorns punctuality or calendar management, but - to be honest - it is a bit more existential than that. Capricorn recognizes that life is short and, likewise, they are always racing against the clock. There are so many things Capricorn wants to accomplish and achieve in this lifetime; slowing down is simply not an option. As a cardinal sign, Capricorn is really motivated to start new projects - this sign is constantly coming up with new ideas! Of course, solar and lunar eclipses will help propel their ideas forward, so be sure to look out for these life-altering, destiny-packed astrological events, as well.
+    
+        </sunInfo>
+        <moonInfo>
+Hardworking and industrious, Capricorn is renowned for steadfast dedication. Within a moon placement, Capricorn is fulfilled through successes and achievements. Those born under this lunation take their responsibilities seriously, connecting their emotions to their accomplishments. The Capricorn moon should always be working toward a goal. But Capricorn moons are not all work and no play. They have quite the naughty side and impress everyone by partying all night after working all day and someone being amazing at all of it. Capricorn moons will benefit from opening up and sharing their emotions, as they tend to put up brick walls.
+        </moonInfo>
+        <ascendingInfo>
+If you are a Capricorn rising, you likely come off as mature, organized, and driven. You are always put together and prepared. People may think of you as a skilled businessperson with little interest in games, both in your professional and personal life. You strive for greatness, and you expect much of yourself and others. Much of this is because strict Saturn rules Capricorn, giving you major disciplinarian vibes. And yes, rising Cap, this can be as kinky as it sounds. While people tend to focus on your ambition, you also have a wild devilish side, which can be addictive to lovers.
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/capricorn-sign</webLink>
+	</sign>
+
+	<sign>
+		<name>Aquarius</name>
+		<dateRange>Janurary 20 - Feburary 18</dateRange>
+		<symbol>Water Bearer</symbol>
+		<element>Air</element>
+		<polarity>Masculine</polarity>
+		<modality>Fixed</modality>
+		<planet>Uranus</planet>
+		<image>aquarius.png</image>
+        <imageMain>aquariusMain.png</imageMain>
+        <sunInfo>
+One of the most ubiquitous, albeit innocuous, errors is that Aquarius is a water sign. I could certainly understand the confusion here - especially with -aqua- as the prefix - but once you get to know this zodiac sign, it becomes strikingly clear that Aquarius is an air sign. As the eleventh and penultimate sign of the zodiac, Aquarius is actually the final air sign, which means it deals with air-related concepts (we will get more into that momentarily) from a macro-perspective. Of all the zodiac signs, Aquarius is undoubtedly the most innovative, progressive, rebellious, and humanitarian. And while Aquarius can often be found planning a revolution or proudly flaunting their funky fashion sensibility, they also have an often overlooked sensitive side that requires appreciation, support, and love.
+
+Air energy is all about the mind. Intellectual, curious, and deeply social, the air signs (Gemini, Libra, and Aquarius) are passionate about interpersonal dynamics. As the last air sign in the zodiac, however, Aquarius takes these concepts to a whole other level. Aquarius is represented by the water bearer (hence the aqua), the mystical healer who bestows water, or life, upon the land. Represented by the Star card in tarot, Aquarius can be visualized as a larger-than-life, mythical being with one foot firmly planted on the soil (representing a sense of being grounded) and one positioned in the water. Aquarius is holding a vase, which pours new streams of inspiration to cultivate longevity, healing, and hope. Here, it is important to remember that Aquarius is removed from this process - from this vantage, we can see that Aquarius is positioned as an independent entity separate from the life-giving hydration it offers the cracked soil. In this respect, Aquarius exposes its deep connection to community: Rooted in teamwork, collaboration, and the concept of the -greater good-, Aquarius is determined to make a powerful difference in the world.
+
+Aquarius is ruled by Uranus, the planet that governs innovation, technology, and surprising events. Uranus perfectly mirrors Aquarius distinctive attitude, complementing the nontraditional nature of these visionary air signs. Aquarians are big thinkers, but must not forget their immediate surroundings. These water bearers can become so focused on implementing widespread reform that they neglect their family and friends, gaining a reputation for being distant in relationships. Aquarians should remember that progress always starts on a micro level and advocate empathy and compassion wherever possible.
+        </sunInfo>
+        <moonInfo>
+Aquarius is the most humanitarian sign of the zodiac, so those born under this moon experience their emotions as part of the collective experience. The Aquarius moon is fueled by egalitarianism, so these individuals often emote based on their values rather than their sensitivities. The Aquarian moon wants to do the right thing - even if that means putting the greater good above their own needs. Despite their potential humanitarian interests, Aquarius moons can also be distant, unreliable, and a bit holier than thou. They must make sure to actually value others as much as they value themselves.
+        </moonInfo>
+        <ascendingInfo>
+If you are an Aquarius rising, you may be perceived as intellectual, innovative, and a humanitarian. Some think the -aqua- in Aquarius means you are a water sign, but Aquarius is actually the third air sign (along with Gemini and Libra) and a symbol of the water bearer. This sign has much more to do with community and being part of the collective; it is about sharing the water, not being the water. You are also known for being very individualistic and unafraid to let your freak flag fly. Your ruling planet is Uranus, which is as eccentric as you are.
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/aquarius-sign</webLink>
+	</sign>
+
+	<sign>
+		<name>Pisces</name>
+		<dateRange>Feburary 19 - March 20</dateRange>
+		<symbol>Fish</symbol>
+		<element>Water</element>
+		<polarity>Feminine</polarity>
+		<modality>Mutable</modality>
+		<planet>Neptune</planet>
+		<image>pisces.png</image>
+        <imageMain>piscesMain.png</imageMain>
+        <sunInfo>
+Pisces, a water sign, is the last constellation of the zodiac. It is symbolized by two fish swimming in opposite directions, representing the constant division of Pisces attention between fantasy and reality. As the final sign, Pisces has absorbed every lesson - the joys and the pains, the hopes and the fears - learned by all of the other signs. This makes these fish the most psychic, empathetic, and compassionate creatures of the astrological wheel. With such immense sensitivity, Pisces can easily become swallowed by emotions and must remember to stay grounded in the material realm (appropriately, Pisces rules the feet).
+
+Pisces is ruled by Neptune, the celestial body that governs creativity and dreams, and these ethereal fish adore exploring their boundless imaginations. In its more nefarious form, however, Neptune also oversees illusion and escapism. Neptunian energy is like the energy of the ocean: magical, mysterious, and often scary. When the fog is thick on the water, the horizon is obstructed and there is no differentiation between the sea and the sky.
+
+Those with this sun sign must be wary of mirages: These impressionable fish prefer wearing rose-colored glasses to addressing problems, which can earn Pisces a reputation for being flaky or delusional. This water sign should remember that problems can't be solved by swimming away. Willful ignorance never makes conflict disappear: It only gives it the chance to grow.
+
+A mutable sign, Pisces effortlessly adapts to their surroundings. These visionary fish have unparalleled access to the collective unconscious through their clairvoyance and make incredible artists and creatives. Kind and gentle, they are invigorated by shared experiences of music and romance. Any with mystical Pisces is guaranteed to involve deep spiritual exploration.
+        </sunInfo>
+        <moonInfo>
+The final sign of the zodiac is associated with great empathy and innate psychic powers. Accordingly, sensitive Pisces moons are constantly absorbing energy. They feel deeply, and without an anchor, they can easily be engulfed in a sea of emotions. Those with this placement should honor their moon sign by celebrating their otherworldly creativity and benevolent generosity. Those with Pisces moons are also deeply spiritual and philosophical and love sharing their knowledge with others. Pisces moons tend to be described as old souls.
+        </moonInfo>
+        <ascendingInfo>
+If you are a Pisces rising, people likely describe you as dreamy and empathetic, and you may sometimes have your head a bit in the clouds. This sign is known as the psychic of the zodiac and since it is the last sign, it carries all the other signs in it. Therefore, you are intrinsically linked to all of humanity. When someone meets you for the first time, you may seem like you are not paying attention and your mind is elsewhere. That may be partially true, but you are also taking in everything, including the persons words, body language, and underlying emotions. Pisces ruling planet is the magical Neptune, which makes you mysterious and alluring.
+        </ascendingInfo>
+        <webLink>https://www.costarastrology.com/zodiac-signs/pisces-sign</webLink>
+	</sign>
+</zodiac>
+

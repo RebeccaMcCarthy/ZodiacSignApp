@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<terminology>
+    <item>
+        <name>Air Signs</name>
+        <description>The signs of Gemini, Libra, and Aquarius.
+        </description>
+    </item>
+    <item>
+        <name>Ascendent</name>
+        <description>Your ascendant is the "mask" you present to people. It can be seen in your personal style and how you come off to people when you first meet. Some say it becomes less relevant as you get older. It changes every two hours, so if it doesn't make sense, reconfirm your birth time to be sure.
+        </description>
+    </item>
+    <item>
+        <name>Cardinal</name>
+        <description>The signs of Aries, Cancer, Libra, and Capricorn
+        </description>
+    </item>
+    <item>
+        <name>Earth Sign</name>
+        <description>The signs of Taurus, Virgo, and Capricorn.
+        </description>
+    </item>
+    <item>
+        <name>Element</name>
+        <description>One of the four substances thought in ancient and medieval cosmology to constitute the universe (earth, air, water, or fire).
+        </description>
+    </item>
+    <item>
+        <name>Feminine</name>
+        <description>The signs of Taurus, Cancer, Virgo, Scorpio, Capricorn, and Pisces. The remaining 6 signs of the zodiac are masculine signs. Feminine signs are also referred to as negative or receptive signs.
+        </description>
+    </item>
+    <item>
+        <name>Fire Sign</name>
+        <description>The signs of Aries, Leo, and Sagittarius.
+        </description>
+    </item>
+    <item>
+        <name>Fixed</name>
+        <description>Of, relating to, or belonging to the group consisting of the four signs of the zodiac Taurus, Leo, Scorpio, and Aquarius, which are associated with stability
+        </description>
+    </item>
+    <item>
+        <name>Masculine</name>
+        <description>The signs of Aries, Gemini, Leo, Libra, Sagittarius, and Aquarius. The remaining 6 signs of the zodiac are feminine signs. Masculine signs are also referred to as "positive" signs.
+        </description>
+    </item>
+    <item>
+        <name>Modality</name>
+        <description>The modality or mode of a given sign refers to its position in the season it is found in.
+        </description>
+    </item>
+    <item>
+        <name>Moon Sign</name>
+        <description>The moon rules your emotions, moods, and feelings. This is likely the sign you most think of yourself as, since it reflects your personality when you're alone or deeply comfortable.
+        </description>
+    </item>
+    <item>
+        <name>Mutable</name>
+        <description>Relating to four of the signs of the zodiac, Gemini, Virgo, Sagittarius, and Pisces, which are associated with the quality of adaptability.
+        </description>
+    </item>
+    <item>
+        <name>Natal Chart</name>
+        <description>A natal chart is a map of the sky from when and where you were born that shows which constellation (sign) a planet was in front of when you were born. In astrology, a natal chart indicates your character traits, behavioral tendencies, hidden desires, and the directions your life might take. It shows the location of each planet, along with the sign and house it appeared in at that moment.
+        </description>
+    </item>
+    <item>
+        <name>Planets</name>
+        <description>Each zodiac sign is represented by a planet in the solar system, and each planet have characteristics for the individuals personality.
+        </description>
+    </item>
+    <item>
+        <name>Polarity</name>
+        <description>The concept of Polarity is related to the Ascendant/Descendant axis. Both elements are important in analyzing our astrological personality.
+        </description>
+    </item>
+    <item>
+        <name>Sun Sign</name>
+        <description>The sun determines your ego, identity, and "role" in life. It's the core of who you are, and is the sign you're most likely to already know.
+        </description>
+    </item>
+    <item>
+        <name>Symbol</name>
+        <description>These are icons that represent the 12 different zodiac signs.
+        </description>
+    </item>
+    <item>
+        <name>Water Sign</name>
+        <description>The signs of Cancer, Scorpio, and Pisces.
+        </description>
+    </item>
+    <item>
+        <name>Zodiac</name>
+        <description>A circle of 360 degrees, divided into 12 equal sectors of 30 degrees each that are the astrology signs.
+        </description>
+    </item>
+</terminology>
