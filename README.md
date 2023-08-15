@@ -32,13 +32,9 @@ This task was one of my first projects in iOS development, to test out different
 | Colour             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 | Background Colour | ![#100e34](https://via.placeholder.com/10/100e34?text=+) #100e34 |
-| ----------------- | ------------------------------------------------------------------ |
 | Stars Colour | ![#5c2725](https://via.placeholder.com/10/5c2725?text=+) #5c2725 |
-| ----------------- | ------------------------------------------------------------------ |
 | Galaxy Colour | ![#9c4248](https://via.placeholder.com/10/9c4248?text=+) #9c4248 |
-| ----------------- | ------------------------------------------------------------------ |
 | Gold Label Colour | ![#584e46](https://via.placeholder.com/10/584e46?text=+) #584e46 |
-| ----------------- | ------------------------------------------------------------------ |
 | Star Sign Logo Colour | ![#876f39](https://via.placeholder.com/10/876f39?text=+) #876f39 |
 
 
